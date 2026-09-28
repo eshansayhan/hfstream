@@ -1,0 +1,13 @@
+{
+  "accounts": [
+    {
+      "active": true,
+      "branch": "main",
+      "id": "acc_primary",
+      "name": "Eshan Ana Film Deposu",
+      "repo_id": "eshansayhan/movie",
+      "token": ""
+    }
+  ],
+  "sync_interval_seconds": 60
+}
